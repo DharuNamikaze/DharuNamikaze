@@ -1,7 +1,7 @@
  <img src="banner_github.webp" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:          
-I'm currently working on DeepSeek VS code Extension
+I'm currently working on Odyssey!
 
 
 ## 🌐 Socials:
